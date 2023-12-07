@@ -1,6 +1,6 @@
 # Emerging Technologies
 
-This repository is for Emerging Technologies project in my Year 4th Semester 1. There are two folders in this repo. 
+This repository is for Emerging Technologies project in my Year 4th Semester 1. There are two notebooks in this repo. 
 
 ## Table of Contents
 
@@ -10,11 +10,11 @@ This repository is for Emerging Technologies project in my Year 4th Semester 1. 
 
 ## Tasks
 
-This tasks folder contains the tasks throught the semester. The tasks.ipynb is the jupyter notebooks for all the algorithms to solve the problems and all the mathematical equations for the tasks.
+This notebook contains the tasks throught the semester. The tasks.ipynb is the jupyter notebooks for all the algorithms to solve the problems and all the mathematical equations for the tasks.
 
 ## Project
 
-The project folder contains project.ipynb for research about the Deutsch's algorithm, explaining the problem and how the algortihm works. The example of how the algorithm to solve problem included in the jupyter notebooks as well
+The project.ipynb contains the research about the Deutsch's algorithm, explaining the problem and how the algortihm works. The example of how the algorithm to solve problem included in the jupyter notebooks as well.
 
 ## Running Jupyter Notebooks
 
