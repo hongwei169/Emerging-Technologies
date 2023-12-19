@@ -1,4 +1,5 @@
 # Emerging Technologies
+## Hong Wei Phang  (G00388774)
 
 This repository is for Emerging Technologies project in my Year 4th Semester 1. There are two notebooks in this repo. 
 
